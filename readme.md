@@ -1,0 +1,1 @@
+This an express sequelize nodejs and angular 8 application.
